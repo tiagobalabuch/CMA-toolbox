@@ -38,8 +38,8 @@ The Customer Migration Accelerator (CMA) Toolbox is designed to accelerate your 
        - This template JSON file is intended to help you. Replace all the connection strings with those of your SQL Server instances. Use Windows Authentication whenever possible.
        - If you've created a folder in a different location, change the outputFolder parameter accordingly.
 
-       > [!CAUTION]
-       > The CMAAssessment folder will be created automatically based on your specified location.
+> [!NOTE]
+> The CMAAssessment folder will be created automatically based on your specified location.
 
     ```json
     {
@@ -60,8 +60,8 @@ The Customer Migration Accelerator (CMA) Toolbox is designed to accelerate your 
        - This template JSON file is also intended to help you. Replace all the connection strings with those of your SQL Server instances. Use Windows Authentication whenever possible.
        - If you've created a folder in a different location, change the outputFolder parameter accordingly.
 
-       > [!NOTE]
-       > The CMADataCollection folder will be created automatically based on your specified location.
+> [!NOTE]
+> The CMADataCollection folder will be created automatically based on your specified location.
 
     ```json
     {
