@@ -1,0 +1,11 @@
+{
+    "action": "Assess",
+    "outputFolder": "C:\\temp\\CMA\\CMAAssessment",
+    "overwrite":  "True",
+    "sqlConnectionStrings": [
+        "Data Source=Server1.database.net;Initial Catalog=master;Integrated Security=True;Encrypt=True;TrustServerCertificate=True",
+        "Data Source=Server2.database.net;Initial Catalog=master;Integrated Security=True;Encrypt=True;TrustServerCertificate=True",
+        "Data Source=Server3.database.net;Initial Catalog=master;User ID=sqluser;Password=password@123;Encrypt=True;TrustServerCertificate=True",
+        "Data Source=Server4.database.net;Initial Catalog=master;User ID=sqluser;Password=password@123;Encrypt=True;TrustServerCertificate=True"
+    ]
+}
